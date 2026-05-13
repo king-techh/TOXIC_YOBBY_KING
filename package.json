@@ -1,0 +1,20 @@
+{
+  "name": "yobby-tech-deploy",
+  "version": "7.0.0",
+  "description": "TOXIC YOBBY KING - WhatsApp Bot Deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mrxd-baileys": "github:XdKing2/mrxd-baileys",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^8.17.0",
+    "axios": "^1.6.0",
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
